@@ -25,24 +25,19 @@ NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=1
 AutoCrossReferences=1
-NewIndexingOfSheetSymbols=1
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
-CrossRefSheetStyle=1
-CrossRefLocationStyle=1
-CrossRefPorts=3
-CrossRefCrossSheets=1
-CrossRefSheetEntries=0
-CrossRefFollowFromMainSettings=1
+VaultGUID=
+ReleaseVaultName=
+ItemGUID=
 
 [Preferences]
 PrefsVaultGUID=
@@ -167,6 +162,183 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MCGRBORE
 
+[Document8]
+DocumentPath=PowerBoard.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PowerBoard\ProjectTitle r.0.1\NC Drill\PowerBoard.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for PowerBoard\ProjectTitle r.Revision\NC Drill\PowerBoard.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for PowerBoard\r.0.1\NC Drill\PowerBoard.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for PowerBoard\ProjectTitle r.0.1\Gerber\PowerBoard.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for PowerBoard\ProjectTitle r.Revision\Gerber\PowerBoard.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for PowerBoard\r.0.1\Gerber\PowerBoard.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for PowerBoard\ProjectTitle r.0.1\Gerber\PowerBoard.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for PowerBoard\ProjectTitle r.Revision\Gerber\PowerBoard.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for PowerBoard\r.0.1\Gerber\PowerBoard.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for PowerBoard\ProjectTitle r.0.1\Gerber\PowerBoard.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for PowerBoard\ProjectTitle r.Revision\Gerber\PowerBoard.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for PowerBoard\r.0.1\Gerber\PowerBoard.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for PowerBoard\ProjectTitle r.0.1\Gerber\PowerBoard.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for PowerBoard\ProjectTitle r.Revision\Gerber\PowerBoard.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for PowerBoard\r.0.1\Gerber\PowerBoard.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for PowerBoard\ProjectTitle r.0.1\Gerber\PowerBoard.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for PowerBoard\ProjectTitle r.Revision\Gerber\PowerBoard.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for PowerBoard\r.0.1\Gerber\PowerBoard.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for PowerBoard\ProjectTitle r.0.1\Gerber\PowerBoard.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for PowerBoard\ProjectTitle r.Revision\Gerber\PowerBoard.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for PowerBoard\r.0.1\Gerber\PowerBoard.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for PowerBoard\ProjectTitle r.0.1\Gerber\PowerBoard.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for PowerBoard\ProjectTitle r.Revision\Gerber\PowerBoard.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for PowerBoard\r.0.1\Gerber\PowerBoard.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for PowerBoard\ProjectTitle r.0.1\Gerber\PowerBoard.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for PowerBoard\ProjectTitle r.Revision\Gerber\PowerBoard.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for PowerBoard\r.0.1\Gerber\PowerBoard.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for PowerBoard\ProjectTitle r.0.1\NC Drill\PowerBoard.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for PowerBoard\ProjectTitle r.Revision\NC Drill\PowerBoard.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for PowerBoard\r.0.1\NC Drill\PowerBoard.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for PowerBoard\ProjectTitle r.0.1\Gerber\PowerBoard.REP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for PowerBoard\ProjectTitle r.Revision\Gerber\PowerBoard.REP
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for PowerBoard\r.0.1\Gerber\PowerBoard.REP
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for PowerBoard\ProjectTitle r.0.1\Gerber\PowerBoard.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for PowerBoard\ProjectTitle r.Revision\Gerber\PowerBoard.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for PowerBoard\r.0.1\Gerber\PowerBoard.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for PowerBoard\ProjectTitle r.0.1\NC Drill\PowerBoard.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for PowerBoard\ProjectTitle r.Revision\NC Drill\PowerBoard.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for PowerBoard\r.0.1\NC Drill\PowerBoard.TXT
+DItemRevisionGUID=
+
+[Parameter1]
+Name=Revision
+Value=0.1
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -180,7 +352,7 @@ ConfigurationType=Source
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Pantum M6550NW series[2B5FFF]
+TargetPrinter=AnyDesk Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -282,22 +454,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=XSpiceNetlist
-OutputName21=Mixed Sim Netlist
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Pantum M6550NW series[2B5FFF]
+TargetPrinter=AnyDesk Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -310,89 +472,71 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType2=Harness Layout Drawing Print
-OutputName2=Harness Layout Drawing Prints
+OutputType2=PCB 3D Print
+OutputName2=PCB 3D Print
 OutputDocumentPath2=
-OutputVariantName2=
+OutputVariantName2=[No Variations]
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType3=Harness Wiring Diagram Print
-OutputName3=Harness Wiring Diagram Prints
+OutputType3=PCB 3D Video
+OutputName3=PCB 3D Video
 OutputDocumentPath3=
-OutputVariantName3=
+OutputVariantName3=[No Variations]
 OutputDefault3=0
 PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType4=PCB 3D Print
-OutputName4=PCB 3D Print
+OutputType4=PCB Print
+OutputName4=PCB Prints
 OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType5=PCB 3D Video
-OutputName5=PCB 3D Video
+OutputType5=PCBDrawing
+OutputName5=Draftsman
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
 PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType6=PCB Print
-OutputName6=PCB Prints
+OutputType6=PCBLIB Print
+OutputName6=PCBLIB Prints
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
 PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType7=PCBDrawing
-OutputName7=Draftsman
+OutputType7=PDF3D
+OutputName7=PDF3D
 OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
 PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType8=PCBLIB Print
-OutputName8=PCBLIB Prints
+OutputType8=PDF3D MBA
+OutputName8=PDF3D MBA
 OutputDocumentPath8=
-OutputVariantName8=[No Variations]
+OutputVariantName8=
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType9=PDF3D
-OutputName9=PDF3D
+OutputType9=Report Print
+OutputName9=Report Prints
 OutputDocumentPath9=
-OutputVariantName9=[No Variations]
+OutputVariantName9=
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType10=PDF3D MBA
-OutputName10=PDF3D MBA
+OutputType10=Schematic Print
+OutputName10=Schematic Prints
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType11=Report Print
-OutputName11=Report Prints
+OutputType11=SimView Print
+OutputName11=SimView Prints
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType12=Schematic Print
-OutputName12=Schematic Prints
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType13=SimView Print
-OutputName13=SimView Prints
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType14=PCBDrawing
-OutputName14=Draftsman
-OutputDocumentPath14=
-OutputVariantName14=[No Variations]
-OutputDefault14=0
-PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Pantum M6550NW series[2B5FFF]
+TargetPrinter=AnyDesk Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -414,7 +558,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Pantum M6550NW series[2B5FFF]
+TargetPrinter=AnyDesk Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -486,7 +630,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Pantum M6550NW series[2B5FFF]
+TargetPrinter=AnyDesk Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -494,6 +638,24 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=True|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=False|IncludeAlternatives=True|ShowExportOptions=True|TemplateFilename=B:\Works\DiWo\Projects\PowerBoard\Template\DiWo BOM Template.xlsx|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=True|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=True|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Line #=54|Comment=111|Description=103|Designator=80|Quantity=67|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
+Configuration1_Name7=VisibleOrder_Base
+Configuration1_Item7=Line #=54|Comment=111|Description=103|Designator=80|Quantity=67|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
+Configuration1_Name8=VisibleOrder_Consolidated
+Configuration1_Item8=Line #=100|Comment=100|Description=100|Designator=100|Quantity=100|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
+Configuration1_Name9=VisibleOrder_Flat
+Configuration1_Item9=Line #=100|Comment=100|Description=100|Designator=100|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
 OutputType2=BOM_ReportCompare
 OutputName2=BOM Compare
 OutputDocumentPath2=
@@ -531,17 +693,11 @@ OutputName8=Report Single Pin Nets
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
-OutputType9=Project History
-OutputName9=Project History
-OutputDocumentPath9=
-OutputVariantName9=[No Variations]
-OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Pantum M6550NW series[2B5FFF]
+TargetPrinter=AnyDesk Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -649,7 +805,7 @@ PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Pantum M6550NW series[2B5FFF]
+TargetPrinter=AnyDesk Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -693,7 +849,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Pantum M6550NW series[2B5FFF]
+TargetPrinter=AnyDesk Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -750,16 +906,11 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Web ReviewOutputName
-OutputName12=Web Review Data
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Pantum M6550NW series[2B5FFF]
+TargetPrinter=AnyDesk Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -887,7 +1038,6 @@ Type116=1
 Type117=1
 Type118=1
 Type119=1
-Type120=1
 
 [Difference Levels]
 Type1=1
@@ -1079,13 +1229,12 @@ Type116=2
 Type117=3
 Type118=3
 Type119=3
+MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
 Type123=1
 Type124=1
 Type125=1
-Type126=1
-Type127=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1186,6 +1335,11 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=POWER_EN|NetColor=$00FFFF6E
+Net2=NetName=VACC|NetColor=$006EFF6E
+Net3=NetName=VGS|NetColor=$00FF6E6E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
