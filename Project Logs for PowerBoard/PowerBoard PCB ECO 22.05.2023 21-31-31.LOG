@@ -1,0 +1,85 @@
+Removed Pin From Net: NetName=NetR11_1 Pin=VT2-G
+Removed Pin From Net: NetName=GND Pin=VT2-S
+Removed Member From Class: ClassName=PowerBoard Member=VT2
+Added Component: Designator=DA(SOT23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://data.electronshik.ru/z/Datasheet/R/RS8907.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://data.electronshik.ru/z/Datasheet/R/RS8907.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RS8907XC5"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603 (1608 Metric) N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Grou"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Yageo%20Renders/0603-(1608-Metric).jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Points"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1.00KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueGOST"; Value = "1êÎì"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603 (1608 Metric) N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Grou"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Yageo%20Renders/0603-(1608-Metric).jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Points"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1.00KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueGOST"; Value = "1êÎì"; VariantName = "[No Variations]"
+Added Component: Designator=VT?(TO-252)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://static.chipdip.ru/lib/039/DOC013039432.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/039/DOC013039432.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "UMW 30N03A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=DA-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Add Pin To Net: Unknown Pin: Pin VT?-G
+Add Pin To Net: Unknown Pin: Pin VT?-S
+Added Pin To Net: NetName=NetDA3_3 Pin=DA-1
+Added Pin To Net: NetName=NetDA3_3 Pin=DA3-3
+Added Net: Name=NetDA3_3
+Added Pin To Net: NetName=NetDA_3 Pin=DA-3
+Added Pin To Net: NetName=NetDA_3 Pin=R?-1
+Added Pin To Net: NetName=NetDA_3 Pin=R?-2
+Added Net: Name=NetDA_3
+Added Pin To Net: NetName=NetVT?_D Pin=X6-2
+Added Pin To Net: NetName=NetVT?_D Pin=X7-2
+Added Net: Name=NetVT?_D
+Added Pin To Net: NetName=VCC Pin=DA-5
+Added Pin To Net: NetName=VCC Pin=R?-2
+Added Net: Name=VCC
+Added Pin To Net: NetName=VGS Pin=DA-4
+Added Pin To Net: NetName=VGS Pin=R11-2
+Added Net: Name=VGS
+Added Member To Class: ClassName=PowerBoard Member=Component DA RS8907XC5
+Added Member To Class: ClassName=PowerBoard Member=Component R? 1k
+Added Member To Class: ClassName=PowerBoard Member=Component R? 1k
+Added Member To Class: ClassName=PowerBoard Member=Component VT? UMW 30N03A

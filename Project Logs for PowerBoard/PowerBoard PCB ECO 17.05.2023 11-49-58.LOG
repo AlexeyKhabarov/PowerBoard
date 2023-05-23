@@ -1,0 +1,41 @@
+Add Component: Footprint Not Found C0603 (1608 Metric) N
+Add Component: Footprint Not Found C0603 (1608 Metric) N
+Add Component: Footprint Not Found R0603 (1608 Metric) N
+Add Component: Footprint Not Found R0603 (1608 Metric) N
+Add Component: Footprint Not Found R0603 (1608 Metric) N
+Add Component: Footprint Not Found R0603 (1608 Metric) N
+Add Component: Footprint Not Found R0603 (1608 Metric) N
+Add Component: Footprint Not Found R0603 (1608 Metric) N
+Add Component: Footprint Not Found SOD-523
+Add Component: Footprint Not Found SOT23_3_mosfet_1
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C8-2
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin VD5-A
+Add Pin To Net: Unknown Pin: Pin VD5-C
+Add Pin To Net: Unknown Pin: Pin VT1-D
+Add Pin To Net: Unknown Pin: Pin VT1-G
+Add Pin To Net: Unknown Pin: Pin VT1-S
+Add Class Member: Failed to add class member : Component C8 0.1uF
+Add Class Member: Failed to add class member : Component C9 0.1uF
+Add Class Member: Failed to add class member : Component R4 1k
+Add Class Member: Failed to add class member : Component R5 100k
+Add Class Member: Failed to add class member : Component R6 511k
+Add Class Member: Failed to add class member : Component R7 100k
+Add Class Member: Failed to add class member : Component R8 100k
+Add Class Member: Failed to add class member : Component R9 1k
+Add Class Member: Failed to add class member : Component VD5 PESD12VS1UB
+Add Class Member: Failed to add class member : Component VT1 WM03N32M
