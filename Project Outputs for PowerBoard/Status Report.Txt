@@ -1,32 +1,14 @@
-Output: ODB++ Files
-Type  : ODB
-From  : Variant [[No Variations]] of Project [PowerBoard.PrjPcb]
-   Generated File[profile]
-   Generated File[stephdr]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[tools]
-   Generated File[features]
-   Generated File[features]
-   Generated File[tools]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[components]
-   Generated File[features]
-   Generated File[tools]
-   Generated File[data]
-   Generated File[netlist]
-   Generated File[matrix]
-   Generated File[PowerBoard.REP]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 17:18:08 On 24.05.2023
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of BOM Document [PowerBoard.BomDoc]
+   Generated File[Bill of Materials-PowerBoard.xls]
 
 
-Files Generated   : 23
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 23:16:38 On 23.05.2023
+Finished Output Generation At 17:18:09 On 24.05.2023
