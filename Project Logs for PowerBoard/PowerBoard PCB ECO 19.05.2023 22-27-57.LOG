@@ -1,8 +1,0 @@
-Added Component: Designator=X6(DG381-3.81-02P-14-00AH)
-Added Component: Designator=X7(DG381-3.81-02P-14-00AH)
-Added Pin To Net: NetName=VBAT Pin=X6-1
-Added Pin To Net: NetName=GND Pin=X6-2
-Added Pin To Net: NetName=VBAT Pin=X7-1
-Added Pin To Net: NetName=GND Pin=X7-2
-Added Member To Class: ClassName=PowerBoard Member=Component X6 DG381-3.81-02P-14-00AH
-Added Member To Class: ClassName=PowerBoard Member=Component X7 DG381-3.81-02P-14-00AH

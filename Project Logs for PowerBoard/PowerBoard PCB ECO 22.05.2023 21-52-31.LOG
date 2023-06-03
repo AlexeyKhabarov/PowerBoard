@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=NetVT2_D Pin=VT3-D
-Removed Pin From Net: NetName=VGS Pin=VT3-G
-Removed Pin From Net: NetName=GND Pin=VT3-S
-Removed Member From Class: ClassName=PowerBoard Member=VT3
-Add Pin To Net: Unknown Pin: Pin VT2-D
-Add Pin To Net: Unknown Pin: Pin VT2-G
-Add Pin To Net: Unknown Pin: Pin VT2-S

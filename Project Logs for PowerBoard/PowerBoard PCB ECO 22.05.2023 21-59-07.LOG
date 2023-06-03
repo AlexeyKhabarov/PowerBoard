@@ -1,8 +1,0 @@
-Added Component: Designator=VT2(TO-252)
-Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://static.chipdip.ru/lib/039/DOC013039432.pdf"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/039/DOC013039432.pdf"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Part Number"; Value = "UMW 30N03A"; VariantName = "[No Variations]"
-Added Pin To Net: NetName=NetVT2_D Pin=VT2-D
-Added Pin To Net: NetName=NetR11_1 Pin=VT2-G
-Added Pin To Net: NetName=GND Pin=VT2-S
-Added Member To Class: ClassName=PowerBoard Member=Component VT2 UMW 30N03A
